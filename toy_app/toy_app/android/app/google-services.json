@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "833474276469",
+    "project_id": "toystore-625a1",
+    "storage_bucket": "toystore-625a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:833474276469:android:37044e37e73361c2845c3c",
+        "android_client_info": {
+          "package_name": "com.example.toy_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "833474276469-faf41rqvnffgk1bbc17v69ssehcnp21i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAmRMhOlSV0vQnzcvlO1RD2OuSCKOBAmyc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "833474276469-faf41rqvnffgk1bbc17v69ssehcnp21i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

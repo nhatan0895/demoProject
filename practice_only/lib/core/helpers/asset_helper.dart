@@ -1,0 +1,40 @@
+mixin AssetHelper {
+  //Assets in images
+  static const String backgroundSplash = 'assets/images/background.png';
+  static const String circleSplash = 'assets/images/circle.png';
+  static const String intro1 = 'assets/images/intro1.png';
+  static const String intro2 = 'assets/images/intro2.png';
+  static const String intro3 = 'assets/images/intro3.png';
+  static const String oval_1 = 'assets/images/oval_1.png';
+  static const String oval_2 = 'assets/images/oval_2.png';
+  static const String avatar = 'assets/images/avatar.jpg';
+  static const String hotel = 'assets/icons/hotel.png';
+  static const String flight = 'assets/icons/flight.png';
+  static const String all = 'assets/icons/all.png';
+  static const String location = 'assets/icons/location.png';
+  static const String calendar = 'assets/icons/calendar.png';
+  static const String room = 'assets/icons/room.png';
+  static const String guest = 'assets/icons/guest.png';
+  static const String increase = 'assets/icons/increase.png';
+  static const String decrease = 'assets/icons/decrease.png';
+  static const String star_hotel = 'assets/icons/star_hotel.png';
+  static const String location_hotel = 'assets/icons/location_hotel.png';
+  static const String hotel1 = 'assets/images/hotel1.png';
+  static const String hotel2 = 'assets/images/hotel2.png';
+  static const String hotel3 = 'assets/images/hotel3.png';
+  static const String hotel_detail = 'assets/images/hotel_detail.png';
+  static const String map = 'assets/images/map.png';
+  static const String wifi = 'assets/icons/wifi.png';
+  static const String breakfast = 'assets/icons/breakfast.png';
+  static const String cashback = 'assets/icons/cashback.png';
+  static const String smoking = 'assets/icons/smoking.png';
+  static const String room1 = 'assets/images/room1.png';
+  static const String room2 = 'assets/images/room2.png';
+  static const String room3 = 'assets/images/room3.png';
+  static const String contact = 'assets/icons/contact.png';
+  static const String discount = 'assets/icons/discount.png';
+  static const String turkey = 'assets/images/turkey.png';
+  static const String japan = 'assets/images/japan.png';
+  static const String korea = 'assets/images/korea.png';
+  static const String dubai = 'assets/images/dubai.png';
+}
